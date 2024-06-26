@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Baibhav"
+title                    : "Baibhav's Homepage"
 title_separator          : "-"
 name                     : &name "Baibhav Srivastava"
 description              : &description "Graduate Student, Rice University"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/baibhav-srivastava
+  linkedin         : baibhav-srivastava
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
